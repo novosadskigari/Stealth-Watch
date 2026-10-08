@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="package" method="upgrade">
+    <name>Stealth Watch</name>
+    <packagename>stealthwatch</packagename>
+    <author>Damir B</author>
+    <creationDate>2026-10</creationDate>
+    <copyright>(C) 2026 Damir B</copyright>
+    <license>GNU General Public License version 2 or later</license>
+    <version>1.0.1</version>
+    <description>Logs who disables plugins, protects the JCH Optimize page cache, and limits Stealth Watch settings to chosen users.</description>
+    <scriptfile>script.php</scriptfile>
+    <files>
+        <file type="component" id="com_stealthwatch">com_stealthwatch.zip</file>
+        <file type="plugin" id="stealthwatch" group="system">plg_system_stealthwatch.zip</file>
+    </files>
+</extension>
