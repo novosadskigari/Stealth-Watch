@@ -57,17 +57,6 @@ Stealth Watch closes those gaps:
 
 ---
 
-## Screenshots
-
-<!-- Add your own screenshots to docs/ and update the paths below.
-     Before publishing, blur or replace usernames, email addresses, IP addresses and domain names. -->
-
-| Log | Options |
-|---|---|
-| ![Log screen](docs/screenshot-log.png) | ![Options screen](docs/screenshot-options.png) |
-
----
-
 ## Requirements
 
 | | Minimum |
